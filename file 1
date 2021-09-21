@@ -1,10 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Welcome to my first web page - KIngraham!</title>
+<title> Welcome to my first web page - JMagno!</title>
 </head>
 
-<body> bgcolor="blue">
+<body> bgcolor="#F02FB3">
+<centre>
+<p style="font-family": verdana> I am Thomas Aquinas</p>
+</centre>
+
 
 </body>
 <html>
